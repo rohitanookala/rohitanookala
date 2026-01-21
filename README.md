@@ -6,10 +6,15 @@ I'm a second-year Northeastern University student pursuing a BS in Data Science 
 
 📚 Experience
 - June 2025 - August 2025: Data Analyst Intern at Anlitiks Inc
-- January 2025 - April 2025: Group Contributor at Oasis
-
-  [Co-App Website](https://github.com/Oasis-NEU/sp25-group-2.git)
 - May 2022 - July 2024: Primary Instructor and Teaching Assistant at Kumon
+
+📊 Projects
+- September 2025 - December 2025: Modeling the Drivers of Movie Popularity
+
+  [GitHub Link](https://github.com/massaalhajjiri/DS3000_Project.git)
+
+- March 2025: Hackathon Participant at ViTAL
+- January 2025 - April 2025: [Co-App Website](https://github.com/Oasis-NEU/sp25-group-2.git) at Oasis
 
 🔬 Technical Skills
 - Languages: Python, R, SQL, Java, JavaScript, HTML, CSS
