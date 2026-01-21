@@ -6,7 +6,7 @@ I'm a second-year Northeastern University student pursuing a BS in Data Science 
 
 📚 Experience
 - June 2025 - August 2025: Data Analyst Intern at Anlitiks Inc
-- January 2025 - April 2025: Co-App Website at Oasis
+- January 2025 - April 2025: [Co-App Website](https://github.com/Oasis-NEU/sp25-group-2.git) at Oasis
 - May 2022 - July 2024: Primary Instructor and Teaching Assistant at Kumon
 
 🔬 Technical Skills
