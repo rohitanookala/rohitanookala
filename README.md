@@ -24,9 +24,10 @@ I'm a second-year Northeastern University student pursuing a BS in Data Science 
 - Dogs
 
 Contact Info!
+
 [Email Me](mailto:njrohita@gmail.com)
 
-[LinkedIn](www.linkedin.com/in/rohita-nookala-1b61b9327)
+[LinkedIn](https://linkedin.com/in/rohita-nookala-1b61b9327)
 
 <!--
 **rohitanookala/rohitanookala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
