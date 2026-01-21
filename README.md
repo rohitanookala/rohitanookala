@@ -9,6 +9,24 @@ I'm a second-year Northeastern University student pursuing a BS in Data Science 
 - January 2025 - April 2025: Co-App Website at Oasis
 - May 2022 - July 2024: Primary Instructor and Teaching Assistant at Kumon
 
+🔬 Technical Skills
+- Languages: Python, R, SQL, Java, JavaScript, HTML, CSS
+- Frameworks/Libraries: ReactJS, Pandas, NumPy, Node.js, Scikit-learn, Matplotlib
+- Tools: Git, GitHub, Supabase, PostgresSQL, mySQL, Figma, VS Code, AWS (cloud)
+- Lab Skills: Chromatography, Staining, Micropipetting, Acid-Base Titrations, Aseptic Techniques, Bacterial Transformation, DNA Extraction, Gel Electrophoresis
+
+🌺 Interests
+- Football
+- Concerts
+- Reading romance novels
+- Exploring chai spots
+- Traveling
+- Dogs
+
+Contact Info!
+[Email Me](mailto:njrohita@gmail.com)
+
+[LinkedIn](www.linkedin.com/in/rohita-nookala-1b61b9327)
 
 <!--
 **rohitanookala/rohitanookala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
